@@ -1,0 +1,29 @@
+[
+	{
+		"name": "小米 Pro8",
+		"hardware": "X08A",
+		"type": "开发版",
+		"version": "1.24.9",
+		"link": "https://cdn.cnbj1.fds.api.mi-img.com/xiaoqiang/rom/x08a/payload_1.24.9_90df0.bin",
+		"hash": "00c355fbae2104aa6051aa34893f86a5",
+		"extra": "{\"FILE_HASH\":\"556v2+l2mZQkStXvdNx8Lvt4hgQqkWOyfYI80b35/oo=\",\"FILE_SIZE\":\"731185073\",\"METADATA_HASH\":\"6iW70bJYkmIRTd6coVO+pm+9eLZjmiBDdfBRZIJQts8=\",\"METADATA_SIZE\":\"72341\"}"
+	},
+	{
+		"name": "红米 8",
+		"hardware": "X08C",
+		"type": "测试版",
+		"version": "1.27.6",
+		"link": "https://cdn.cnbj1.fds.api.mi-img.com/xiaoqiang/rom/x08c/payload_1.27.6_37cbb.bin",
+		"hash": "8a8adbeaac970ae2a9b303e893737cbb",
+		"extra": "{\"FILE_HASH\":\"tB7KQC1v6qyg8uf28Jfw1ThIfo4ebtaZ3k+36Sq5rBg=\",\"FILE_SIZE\":\"770019411\",\"METADATA_HASH\":\"AIh5DAUKej5LAopNj3jqaZu4LiDpk6iAiKGp5OUZWLA=\",\"METADATA_SIZE\":\"72412\"}"
+	},
+	{
+		"name": "红米 Pro8",
+		"hardware": "X08E",
+		"type": "开发版",
+		"version": "1.24.9",
+		"link": "https://cdn.cnbj1.fds.api.mi-img.com/xiaoqiang/rom/x08e/payload_1.24.9_0f400.bin",
+		"hash": "603e615dab4ebe966a36b1c5e000f400",
+		"extra": "{\"FILE_HASH\":\"WDOaoOt4pp9ZzAyBz8y3xTwwdmN0O8J8n7lCUa6qKMk=\",\"FILE_SIZE\":\"745108921\",\"METADATA_HASH\":\"3ehZ/B7w/qNpp94jC3HTiJlcXPf/YeMdGm1KB1OXPdI=\",\"METADATA_SIZE\":\"51378\"}"
+	}
+]
